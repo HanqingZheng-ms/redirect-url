@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "redirect-url/source.md",
-      "redirect_url": "Target",
+      "redirect_url": "https://www.baidu.com",
       "redirect_document_id": true
     }
   ]
