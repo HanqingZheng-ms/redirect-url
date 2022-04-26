@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "redirect-url/source.md",
-      "redirect_url": "redirect-url/target.md",
+      "redirect_url": "Target",
       "redirect_document_id": true
     }
   ]
