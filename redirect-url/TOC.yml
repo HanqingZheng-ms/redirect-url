@@ -1,5 +1,5 @@
 - name: Index
-  href: index.md
+  href: index.yml
 - name: Source
   href: source.md
 - name: Target
