@@ -23,5 +23,5 @@ After you accept the header/navigation changes, you may now see a new or differe
 
 - For Git Repos with a permissioned Service Account, we open the PR from our Document Build Service Account.
 - For Git Repos that we either do not have Service Account permission for or the repo is in Azure Repos (ADO)  we open the Pull Requests in an automated way with the PR creator as the Repo owner. 
-- 
+
 *How can I revert a Pull Request that has been merged and created an unexpected issue?* Whether a PR has been merged manually or automatically, you can revert it if an issue arises. See [Reverting a pull request - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/reverting-a-pull-request).
