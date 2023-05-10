@@ -1,9 +1,19 @@
 {
   "redirections": [
     {
+      "source_path": "redirect-url/index.md",
+      "redirect_url": "https://www.baidu.com",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "redirect-url/source.md",
       "redirect_url": "https://www.baidu.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "redirect-url/target.md",
+      "redirect_url": "https://www.baidu.com",
+      "redirect_document_id": false
     }
   ]
 }
