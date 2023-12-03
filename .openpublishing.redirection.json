@@ -6,6 +6,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "redirect-url/source.md",
+      "redirect_url": "https://www.b.com",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "redirect-url/target.md",
       "redirect_url": "https://www.b.com",
       "redirect_document_id": false
