@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "redirect-url/source.md",
+      "source_path": "redirect-url/index.md",
       "redirect_url": "https://www.b.com",
       "redirect_document_id": false
     },
