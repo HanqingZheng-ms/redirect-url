@@ -41,7 +41,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/redirect-url/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "ai-usage": "ai-assisted",
+      "contributor-type": "community"
     },
     "fileMetadata": {},
     "template": [],
